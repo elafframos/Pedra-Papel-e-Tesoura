@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    border: none;
+}
+
+body{
+    background-color: rgb(245, 186, 60);
+}
+
+h1{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 300%;
+}
+
+.botao{
+    margin-top: 3%;
+    margin-left: 46%;
+    font-size: 200%;
+    border-radius: 10px;
+    background-color: rgb(9, 255, 0);
+}
+
+.botao:hover{
+    cursor: pointer;
+    background: rgb(67, 228, 3);
+}
+
+footer {
+    font-size: 100%;
+    margin-top: 60px;
+    color: rgb(0, 0, 0); /*Cor do meu nome */
+    text-align: center; /*Local do meu nome */
+    font-style: italic; /*Estilo da fonte */
+}
